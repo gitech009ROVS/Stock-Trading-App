@@ -90,7 +90,7 @@ function Login() {
                 type="submit"
                 style={{ marginLeft: "21%" }}
               >
-                Sign in
+                Log in
               </button>
             </form>
           </div>
